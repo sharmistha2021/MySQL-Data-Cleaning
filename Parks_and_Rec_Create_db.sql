@@ -1,0 +1,2 @@
+SELECt distinct gender
+FROM parks_and_recreation.employee_demographics; 
